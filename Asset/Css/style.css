@@ -1,0 +1,55 @@
+#main {
+    background-color: #FF9999;
+    padding: 20px 0;
+}
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.CMSN {
+    z-index: 2;
+    padding: 20px 10px;
+    background-color: #FFCCFF;
+    border-radius: 20px;
+    font-size: 25px;
+}
+.CMSN:hover {
+    background-color: #FF99CC;
+}
+.picture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-slider {
+    width: 30%;
+}
+#slider {
+    border-radius: 20px;
+    overflow: hidden;
+}
+.content {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.LoiChuc {
+    z-index: 2;
+    text-align: center;
+    padding: 20px 10px;
+    background-color: #FFCCFF;
+    border-radius: 20px;
+    font-size: 25px;
+}
+.LoiChuc:hover {
+    background-color: #FF99CC;
+
+}
+.banhkem {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
